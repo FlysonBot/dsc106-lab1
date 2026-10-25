@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Project 1: Expository Visualization",
+        "year": "2026",
+        "image": "images/project 1.png",
+        "description": "A single static visualization that communicates one takeaway about a dataset of over 50,000 grocery store foods from Walmart, Target, and Whole Foods, with a short write-up of the design rationale."
+    },
+    {
+        "title": "Project 2: Persuasive or Deceptive Visualization?",
+        "year": "2026",
+        "image": "images/project 2.png",
+        "description": "A group project that crafts two opposing visualizations of the same dataset, one for each side of a proposition, to explore where persuasion ends and deception begins."
+    },
+    {
+        "title": "Lorem ipsum dolor sit.",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla recusandae provident unde tempora quia\n                enim incidunt aliquam qui et eveniet quisquam hic, earum debitis, molestias aut? Autem assumenda ipsa\n                quaerat."
+    },
+    {
+        "title": "Deleniti explicabo eos veritatis.",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Veritatis totam suscipit blanditiis veniam autem. Consequuntur, alias dolorum. Excepturi, perferendis\n                sequi? Sit est necessitatibus expedita incidunt natus perspiciatis consequatur corporis ullam, odio,\n                voluptatem placeat atque, dolores nesciunt cupiditate! Debitis."
+    },
+    {
+        "title": "Voluptatem ipsum tempore qui?",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Inventore aperiam earum porro dolorum, pariatur, molestias reprehenderit maxime nam ut veritatis debitis\n                repellendus dignissimos ea atque ducimus officia praesentium tempore non aliquid saepe beatae, corrupti\n                delectus nesciunt? Itaque, accusantium?"
+    },
+    {
+        "title": "Quas necessitatibus nesciunt esse!",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Mollitia, accusamus quas? Soluta temporibus nihil dolore explicabo atque odit iste corrupti autem ratione\n                pariatur labore earum aliquam eveniet, nostrum in omnis ipsam harum culpa consectetur tempora expedita\n                alias. Officia?"
+    },
+    {
+        "title": "Odit animi eveniet mollitia!",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Asperiores, quidem dignissimos quos fugiat ad voluptatibus illo rerum at pariatur quod nostrum dolore\n                animi corrupti incidunt tempore magnam nobis quibusdam. Vero, natus illum placeat vel ipsum saepe eum\n                exercitationem."
+    },
+    {
+        "title": "Doloribus pariatur necessitatibus excepturi!",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Deserunt molestiae repellat harum architecto consequuntur blanditiis excepturi aperiam beatae! Nulla\n                ratione facere, autem, maxime ipsum soluta veniam quidem, corporis veritatis numquam repudiandae harum\n                dolorem aperiam molestiae voluptatum dolores quas."
+    },
+    {
+        "title": "Ex harum veritatis reiciendis.",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Iure tempora nobis laudantium eaque laboriosam reiciendis exercitationem. Libero ab iste molestiae omnis\n                provident dolorem! Cum est, autem maiores dicta amet beatae facere sequi. Temporibus aperiam\n                perspiciatis qui numquam fuga."
+    },
+    {
+        "title": "Adipisci quibusdam eius debitis.",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Eligendi repellat, maiores, architecto unde natus facere ullam dolor odio sit corrupti itaque! Cumque\n                officiis rerum iure! Nobis suscipit sequi et ducimus dolorum velit, magnam voluptates rerum quisquam,\n                sint cupiditate!"
+    },
+    {
+        "title": "Adipisci rem tenetur molestiae?",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Nisi impedit ipsam tenetur aut possimus rem molestiae voluptatum commodi? Neque quibusdam, doloribus quam\n                libero tempore et ea praesentium obcaecati nisi tenetur ratione dignissimos natus. Eveniet adipisci\n                corrupti animi accusantium!"
+    },
+    {
+        "title": "Molestiae voluptatibus soluta vel.",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Nostrum veniam magnam explicabo incidunt voluptas culpa eaque, deleniti perferendis quos autem odio\n                minima harum quas distinctio tenetur ipsam voluptatem officiis ab. Voluptatum veniam voluptas corporis\n                ullam sint, rem quos?"
+    },
+    {
+        "title": "Temporibus officia cumque soluta?",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Esse deleniti illum repellat nobis! Veniam dolor rem officia praesentium iste? Consectetur, quasi. Iure\n                sapiente similique est mollitia quaerat modi ipsum! Ducimus, id quo. Tempore, recusandae. Nam delectus\n                doloremque porro."
+    },
+    {
+        "title": "Alias saepe eos optio!",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Saepe praesentium aliquid unde neque pariatur, ullam dicta aspernatur asperiores possimus voluptatibus\n                ipsa. Minus consectetur molestiae suscipit voluptate veritatis est dicta repudiandae cum! Earum ex eos\n                illum accusamus mollitia corrupti."
+    }
+]

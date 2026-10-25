@@ -72,3 +72,36 @@ if ('colorScheme' in localStorage) {
     select.value = localStorage.colorScheme;
 }
 
+export async function fetchJSON(url) {
+    try {
+        const response = await fetch(url);
+
+        if (!response.ok) {
+            throw new Error(`Failed to fetch projects: ${response.statusText}`);
+        }
+
+        return await response.json();
+    } catch (error) {
+        console.error('Error fetching or parsing JSON data:', error);
+    }
+}
+
+export function renderProjects(projects, containerElement, headingLevel = 'h2') {
+    containerElement.innerHTML = '';
+
+    for (let i = 0; i < projects.length; i++) {
+        const article = document.createElement('article');
+
+        article.innerHTML = `
+            <${headingLevel}>${projects[i].title}</${headingLevel}>
+            <img src="${projects[i].image}" alt="${projects[i].title}">
+            <p>${projects[i].description}</p>
+        `;
+
+        containerElement.appendChild(article);
+    }
+}
+
+export async function fetchGitHubData(username) {
+    return fetchJSON(`https://api.github.com/users/${username}`);
+}
