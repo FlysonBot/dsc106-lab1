@@ -12,6 +12,13 @@
         "description": "A group project that crafts two opposing visualizations of the same dataset, one for each side of a proposition, to explore where persuasion ends and deception begins."
     },
     {
+        "title": "Lab 7: Bikewatching",
+        "year": "2026",
+        "image": "images/bikewatching.png",
+        "description": "An interactive Mapbox map of Bluebikes traffic in the Boston area, with bike lanes, station markers sized by traffic, and a time slider that shows how arrivals and departures change through the day.",
+        "url": "https://flysonbot.github.io/dsc106-lab7/"
+    },
+    {
         "title": "Lorem ipsum dolor sit.",
         "year": "2023",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
